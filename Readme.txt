@@ -1,7 +1,7 @@
-MastGif programı masaüstü duvar kağıdınızda hareketli resimler (Gif) oynatabilmenizi sağlar
-Kullanımı basittir. içerisinde 40 tan fazla hareketli resim vardır, dilerseniz kendi indirmiş olduğunuz hareketli resimleride kullanabilirsiniz.
+MastGif programÄ± sadece windows 7 Ã¼zerinde Ã§alÄ±ÅŸarak masaÃ¼stÃ¼ duvar kaÄŸÄ±dÄ±nÄ±zda hareketli resimler (Gif) oynatabilmenizi saÄŸlar.
+KullanÄ±mÄ± basittir. iÃ§erisinde 40 tan fazla hareketli resim vardÄ±r, dilerseniz kendi indirmiÅŸ olduÄŸunuz hareketli resimleride kullanabilirsiniz.
 
-Program başladıktan sonra sağ alt kısımda bulunan ikona sağ tıklayarak seçeneklere ve ayarlara ulaşabilirsiniz.
-Eğer programı açarken yetkilendirme hatası alırsanız masaüstüne kurmayı deneyin.
+Program baÅŸladÄ±ktan sonra saÄŸ alt kÄ±sÄ±mda bulunan ikona saÄŸ tÄ±klayarak seÃ§eneklere ve ayarlara ulaÅŸabilirsiniz.
+EÄŸer programÄ± aÃ§arken yetkilendirme hatasÄ± alÄ±rsanÄ±z masaÃ¼stÃ¼ne kurmayÄ± deneyin.
 
-2015 yılında oluşturulmuştur.
+2015 yÄ±lÄ±nda oluÅŸturulmuÅŸtur.
