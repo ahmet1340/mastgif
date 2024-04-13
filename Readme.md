@@ -4,5 +4,6 @@
   <p>Orijinal olarak 2015 yılında oluşturulmuştur.</p>
 
 <h2>MastGif Video</h2>
+
 [![MastGif Video](https://img.youtube.com/vi/HQ9kA4Q0QL8/0.jpg)](https://www.youtube.com/watch?v=HQ9kA4Q0QL8)
  
